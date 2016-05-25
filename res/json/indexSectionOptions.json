@@ -1,0 +1,49 @@
+[
+    {
+        "name": "Cassette Player",
+        "type": "Prototype | SONY TPSL2",
+        "year": 1970,
+        "src": "/res/img/cassette.jpg",
+        "startSrc": "/res/img/cassetteA.gif",
+        "endSrc": "/res/img/cassetteB.gif",
+        "backgroundColor": "#F2D7C0"
+    },
+    {
+        "name": "CD Player",
+        "type": "Prototype | SONY D50",
+        "year": 1980,
+        "src": "/res/img/cd.jpg",
+        "startSrc": "/res/img/cdA.gif",
+        "endSrc": "/res/img/cdB.gif",
+        "backgroundColor": "#F2ECDA"
+    },
+    {
+        "name": "MD Player",
+        "type": "Prototype | SONY MZ1",
+        "year": 1990,
+        "src": "/res/img/md2.jpg",
+        "startSrc": "/res/img/mdA.gif",
+        "endSrc": "/res/img/mdB.gif",
+        "backgroundColor": "#CDE5D6"
+    },
+    {
+        "name": "MP3 Player",
+        "type": "Prototype | MPMAN F10",
+        "year": 2000,
+        "src": "/res/img/mp32.jpg",
+        "startSrc": "/res/img/mp3A.gif",
+        "endSrc": "/res/img/mp3B.gif",
+        "backgroundColor": "#A3D8D5"
+    },
+    {
+        "name": "WEB Player",
+        "type": "Prototype | APPLE IPHONE4",
+        "year": 2010,
+        "src": "/res/img/web.jpg",
+        "startSrc": "/res/img/webA.gif",
+        "endSrc": "/res/img/webB.gif",
+        "backgroundColor": "#92C4CC"
+    }
+]
+
+
