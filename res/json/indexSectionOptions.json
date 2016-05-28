@@ -1,7 +1,7 @@
 [
     {
-        "name": "Cassette Player",
-        "type": "Prototype | SONY TPSL2",
+        "name": "卡 带 播 放 器",
+        "type": "原型 | SONY TPS-L2",
         "year": 1970,
         "src": "/res/img/cassette.jpg",
         "startSrc": "/res/img/cassetteA.gif",
@@ -9,8 +9,8 @@
         "backgroundColor": "#F2D7C0"
     },
     {
-        "name": "CD Player",
-        "type": "Prototype | SONY D50",
+        "name": "CD 播 放 器",
+        "type": "原型 | SONY D50",
         "year": 1980,
         "src": "/res/img/cd.jpg",
         "startSrc": "/res/img/cdA.gif",
@@ -18,8 +18,8 @@
         "backgroundColor": "#F2ECDA"
     },
     {
-        "name": "MD Player",
-        "type": "Prototype | SONY MZ1",
+        "name": "MD 播 放 器",
+        "type": "原型 | SONY MZ-1",
         "year": 1990,
         "src": "/res/img/md2.jpg",
         "startSrc": "/res/img/mdA.gif",
@@ -27,8 +27,8 @@
         "backgroundColor": "#CDE5D6"
     },
     {
-        "name": "MP3 Player",
-        "type": "Prototype | MPMAN F10",
+        "name": "MP3 播 放 器",
+        "type": "原型 | MPMAN F10",
         "year": 2000,
         "src": "/res/img/mp32.jpg",
         "startSrc": "/res/img/mp3A.gif",
@@ -36,8 +36,8 @@
         "backgroundColor": "#A3D8D5"
     },
     {
-        "name": "WEB Player",
-        "type": "Prototype | APPLE IPHONE4",
+        "name": "流 媒 体 播 放 器",
+        "type": "原型 | APPLE IPHONE4",
         "year": 2010,
         "src": "/res/img/web.jpg",
         "startSrc": "/res/img/webA.gif",
