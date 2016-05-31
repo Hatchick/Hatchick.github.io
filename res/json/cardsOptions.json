@@ -304,7 +304,7 @@
   [
     {
       "title": "MD播放器",
-      "date": "1970s",
+      "date": "1990s",
       "videoSrc": "/res/video/md.mp4",
       "poster":"/res/video/cover/md-min.jpg",
       "titleBGColor":"#A3E5B6",
@@ -354,7 +354,7 @@
   [
     {
       "title": "Mp3播放器",
-      "date": "1970s",
+      "date": "2000s",
       "videoSrc": "/res/video/mp3.mp4",
       "poster":"/res/video/cover/mp3-min.jpg",
       "titleBGColor":"#5CE5D1",
@@ -503,7 +503,7 @@
   [
     {
       "title": "流媒体时代",
-      "date": "1970s",
+      "date": "2010s",
       "videoSrc": "/res/video/cloud.mp4",
       "poster":"/res/video/cover/cloud-min.jpg",
       "titleBGColor":"#5CD8E5",
